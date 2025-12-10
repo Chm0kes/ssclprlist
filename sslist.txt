@@ -3,16 +3,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNW9zWmcyNjl2NXpIcFlqcjF4WTlz@151.242.251.137:8080#🇦🇪AE-151.242.251.137-0248
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.142:8080#🇦🇪AE-151.242.251.142-0246
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#🇦🇪AE-151.242.251.144-0247
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#🇦🇪AE-151.242.251.147-0249
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443#🇧🇬BG-95.164.10.228-0264
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#🇧🇬BG-95.164.116.33-0328
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#🇨🇦CA-23.95.76.59-0340
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.27.92:443?encryption=none&type=grpc&packetEncoding=xudp#🇩🇪[openproxylist.com] vless-DE
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@162.159.38.176:443?encryption=none&security=tls&sni=terazhedi.info&allowInsecure=true&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#🇩🇪[openproxylist.com] vless-DE
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&allowInsecure=true&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#🇩🇪[openproxylist.com] vless-DE
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@162.159.38.176:443?encryption=none&security=tls&sni=terazhedi.info&allowInsecure=true&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#🇩🇪[openproxylist.com] vless-DE
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.27.92:443?encryption=none&type=grpc&packetEncoding=xudp#🇩🇪[openproxylist.com] vless-DE
 vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.178.246:41647?encryption=none&type=grpc&packetEncoding=xudp#🇩🇪[openproxylist.com] vless-DE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWE9YazJGSndzejlQNm5YSUlDdUROT3FGOWdXWDFkbg==@185.156.110.92:443#🇭🇷HR-185.156.110.92-0400
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#🇮🇳IN-103.111.114.29-0361
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA==@176.126.83.121:443#🇮🇹[openproxylist.com] ss-IT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4Z29Pc3l5QnYyWW40dzBoU3Fqc05xZjVJR2JJRVRaNg==@5.253.41.46:443#🇯🇵[openproxylist.com] ss-JP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#🇱🇹LT-45.158.171.66-0276
@@ -23,14 +19,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q2JRNGJyeTRvdGZpZks3b2VsNzFOYVhwUEw5cFlKYg==@89.221.225.15:443#🇲🇩MD-89.221.225.15-0276
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#🇲🇩MD-94.131.104.147-0286
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#🇳🇱 NL 109.201.152.181 ◈ tcp:443 ◈ NForce Entertainment B.V. / Customer 3015 ◈ 825f8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZUUNTS29DRjNRYXpXOFlsdkRCV0E0@109.71.246.210:56689#🇳🇱NL-109.71.246.210-0306
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.140:8080#🇳🇱NL-193.29.139.140-0371
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#🇳🇱NL-193.29.139.157-0241
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#🇳🇱NL-193.29.139.179-0365
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#🇳🇱NL-193.29.139.189-0317
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.191:8080#🇳🇱NL-193.29.139.191-0385
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#🇳🇱NL-193.29.139.202-7421
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#🇳🇱NL-193.29.139.217-0243
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#🇳🇱NL-193.29.139.227-0265
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🇳🇱NL-193.29.139.240-0373
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#🇳🇱NL-193.29.139.251-0348
