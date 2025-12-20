@@ -49,7 +49,6 @@ vless://9f721f50-e015-5ea3-8bb0-22428307e9c0@89.23.113.137:47944?encryption=none
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bzdFYnRxSXdnWlhYSG1NdjVMYkxjT3hwdHlQbE5raA==@178.23.190.238:443#🇲🇩MD-178.23.190.238-0267
 vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.130.214:41647?encryption=none&type=grpc&packetEncoding=xudp#https://t.me/ForceRunVPN-🇩🇪-FrankfurtAmMain-863ms-Hetzner Online AG
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?encryption=none&packetEncoding=xudp#https://t.me/ForceRunVPN-🇳🇱-Amsterdam-719ms-Clodo Cloud Service CO. L.L.C
-vless://0062f09d-9579-4722-9bd3-d5438970d54a@172.67.210.40:443?encryption=none&security=tls&sni=us7.candyfans.win&allowInsecure=true&type=ws&host=us7.candyfans.win&path=/jqliws&packetEncoding=xudp#https://t.me/ForceRunVPN-🇱🇺-Roost-1129ms-FranTech Solutions
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.150:8080#https://t.me/ForceRunVPN-🇳🇱-Amsterdam-303ms-Greenhost BV
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA==@176.126.83.121:443#🇮🇹[openproxylist.com] ss-IT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#🇳🇴NO-107.174.114.71-0350
