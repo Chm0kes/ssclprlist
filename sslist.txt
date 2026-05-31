@@ -16,3 +16,7 @@ vless://Telegram-Parsashonam-7@45.131.6.203:443?encryption=none&type=xhttp&secur
 vless://87be8be2-9296-4912-944e-d49cc81485d8@85.158.109.113:443?encryption=none&type=xhttp&security=reality&sni=www.kinopoisk.ru&fp=chrome&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&sid=aabbccdd&host=www.kinopoisk.ru&path=/tDjkeuxyQPUDqF8wT2&mode=auto#4Mohsen-7340
 vless://248891a9-1ac5-42ad-a68b-2cecef897b0a@89.208.199.29:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=max.ru&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23164
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg0034686rw.cybervena.com:50099#[openproxylist.com]%20TW%2014163487
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MkxJZXdaek5Vc0lycU9EcjIyRlZj@195.133.2.2:34898#[openproxylist.com]%20FI%2014108677
+vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?encryption=none&packetEncoding=xudp#[openproxylist.com]%20FI%2014177397
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWmVTVHZwbDJ1b2V5MVIwZnJoUHlK@109.107.182.229:51544#[openproxylist.com]%20FI%2014099803
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#[openproxylist.com]%20TW%2014187336
