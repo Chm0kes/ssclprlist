@@ -20,3 +20,17 @@ vless://5cdf99d3-a51b-570e-8245-f87d674dc652@151.101.67.57:80?encryption=none&ty
 vless://InternetAzadRobot-AliKiller@151.101.67.57:80?encryption=none&type=xhttp&security=none&host=InternetAzadRobot19to502.global.ssl.fastly.net&path=/&mode=auto#%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://TIGNAL-CRYPTO@151.101.67.57:80?encryption=none&type=xhttp&security=none&host=InternetAzadRobot19to502.global.ssl.fastly.net&path=/&mode=auto#%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://TOFAN-TRADE@151.101.67.57:80?encryption=none&type=xhttp&security=none&host=InternetAzadRobot19to502.global.ssl.fastly.net&path=/&mode=auto#%F0%9F%87%AB%F0%9F%87%B7%20France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#[OpenRay]%20%F0%9F%87%B9%F0%9F%87%BC%20TW-538
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@89.232.177.114:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&packetEncoding=xudp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20[*CIDR]
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.159.156:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&packetEncoding=xudp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20[*CIDR]
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.16.36.131:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&packetEncoding=xudp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.159.141:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&packetEncoding=xudp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.136.163:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&packetEncoding=xudp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.157.230:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&packetEncoding=xudp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@213.171.24.172:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&packetEncoding=xudp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary
+vless://8cd00214-09da-48d9-8004-8281ff918d36@ru-selectel-01.com:8443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=sni.ru-selectel-01.com&fp=chrome&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=1c74cf626ef50bb3#%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://InternetAzadRobot@fastly.com:80?encryption=none&type=xhttp&security=none&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto#%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://InternetAzadRobot@151.101.1.57:80?encryption=none&type=xhttp&security=none&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto#%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://InternetAzadRobot-AliKiller@151.101.129.57:80?encryption=none&type=xhttp&security=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&path=/&mode=auto#%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://TOFAN-TRADE@151.101.129.57:80?encryption=none&type=xhttp&security=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&path=/&mode=auto#%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://InternetAzadRobot@146.75.117.91:80?encryption=none&type=xhttp&security=none&host=tignaltofansv4.global.ssl.fastly.net&path=/Tignal&mode=auto#%F0%9F%87%AB%F0%9F%87%B7%20France
