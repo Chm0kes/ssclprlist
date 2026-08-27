@@ -38,3 +38,8 @@ hysteria2://39b27e20-16f5-45a1-8139-7c9b7f51b6f8@sg1.xiaoliyu.cyou:1933?security
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443?security=tls&sni=css.rbxcdn.com&allowInsecure=true#%F0%9F%87%BA%F0%9F%87%B8US_586%7C462KB/s%7CA004-260618
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443?security=tls&sni=t.me&allowInsecure=true#%F0%9F%87%BA%F0%9F%87%B8US_595%7C265KB/s%7CA004-260618
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@44.255.13.86:443?security=tls&sni=css.rbxcdn.com&allowInsecure=true#%F0%9F%87%BA%F0%9F%87%B8US_585%7C184KB/s%7CA004-260618
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?encryption=none&type=grpc&security=reality&sni=api-maps.yandex.ru&fp=edge&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&serviceName=grpc-reality#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20[SNI-RU]%20api-maps.yandex.ru
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?encryption=none&type=grpc&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&serviceName=grpc-reality#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20[SNI-RU]%20api-maps.yandex.ru
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?encryption=none&type=grpc&security=reality&sni=api-maps.yandex.ru&fp=ios&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&serviceName=grpc-reality#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20[SNI-RU]%20api-maps.yandex.ru
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#[openproxylist.com]%20DE%2015414261
+vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?packetEncoding=xudp#[openproxylist.com]%20US%2011213088
