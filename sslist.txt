@@ -43,3 +43,13 @@ vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?encryption=non
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?encryption=none&type=grpc&security=reality&sni=api-maps.yandex.ru&fp=ios&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&serviceName=grpc-reality#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20[SNI-RU]%20api-maps.yandex.ru
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#[openproxylist.com]%20DE%2015414261
 vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?packetEncoding=xudp#[openproxylist.com]%20US%2011213088
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.86.107:9830?encryption=none&type=grpc&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&serviceName=grpc-tunnel#%F0%9F%87%BA%F0%9F%87%B8US_493%7C308KB/s%7CA004-260618
+hysteria2://cd74c0a406664a5bc0bac098220a2468@nl1.sferavpn.pro:443?obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&security=tls&sni=nl1.sferavpn.pro&allowInsecure=true#%F0%9F%87%BA%F0%9F%87%B8US_495%7C528KB/s%7CB007-260618
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1NL_10%7C285KB/s%7CA003-260618
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#%F0%9F%87%B3%F0%9F%87%B1NL_11%7C321KB/s%7CA003-260618
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#%F0%9F%87%B3%F0%9F%87%B1NL_127%7C219KB/s%7CA004-260618
+vless://064a967e-0862-4cea-bdbd-9458cb7b6070@91.224.86.107:9830?encryption=none&type=grpc&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aa&serviceName=grpc-tunnel#%F0%9F%87%BA%F0%9F%87%B8US_525%7C95KB/s%7CA004-260618
+hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723?security=tls&sni=95.164.123.231&allowInsecure=true#%F0%9F%87%A9%F0%9F%87%AADE_70%7C318KB/s%7CA004-260618
+socks5://N9cyF6jvgy3ZEmCNKe04zBIR:1Telegram_MojiVPN@ch-zur.pvdata.host:1080#%E2%9D%93Other_15%7C205KB/s%7CR002-260618
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@44.255.13.86:443?security=tls&sni=speedtest.tinkoff.ru&allowInsecure=true#%F0%9F%87%BA%F0%9F%87%B8US_515%7C240KB/s%7CA004-260618
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.1.222:443?security=tls&sni=t.me&allowInsecure=true#%F0%9F%87%B8%F0%9F%87%ACSG_61%7C344KB/s%7CA004-260618
