@@ -20,3 +20,4 @@ vless://d7430ae7-320c-4658-808b-3006d0627d82@95.211.164.121:443?encryption=none&
 ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg==@45.140.169.123:8011#%F0%9F%87%B7%F0%9F%87%BARU_18%7C2.1MB/s%7CK001-260618
 ss://YWVzLTI1Ni1nY206ZmJjZWM3Njk1M2EyZDE3Mw==@166.88.130.218:8011#%F0%9F%87%A8%F0%9F%87%A6CA_87%7C1.5MB/s%7CK001-260618
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9882?encryption=none&type=grpc&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&serviceName=grpc-tunnel#%F0%9F%87%B0%F0%9F%87%BFKZ_1%7C112KB/s%7CA004-260618
+vmess://f23bb427c1f94373876c2f43e9f790f3@47.243.92.155:443?security=tls&sni=mTCKUNDiGePwU3uP.v.3dns.vip&type=ws&host=mTCKUNDiGePwU3uP.v.3dns.vip&path=/ws-vmess&packetEncoding=xudp#%E2%9D%93Other_32%7C462KB/s%7CM003-260806
