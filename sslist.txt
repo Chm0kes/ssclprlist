@@ -36,4 +36,9 @@ vmess://f23bb427c1f94373876c2f43e9f790f3@wwafj5lhl6bi8au9.v.3dns.vip:443?securit
 vless://82282910-54a0-0032-b2df-86bfbce8ed36@84.38.187.169:443?encryption=none&type=xhttp&security=reality&sni=mc.yandex.tr&fp=qq&pbk=rJMYW6mHgjs61mHxfm8Gmm_Re23sV_xe5b0IrTpLsiQ&sid=94c9dbbf07366d96&path=/script&mode=auto#@npv_vpn11
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%2Fripaojiedian&allowInsecure=true&fp=edge#%F0%9F%87%A8%F0%9F%87%B3%20China,%20Guilin%20%7C%20[BL]
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%2Fripaojiedian&allowInsecure=true&fp=qq#%F0%9F%87%A8%F0%9F%87%B3%20China,%20Guilin%20%7C%20[BL]
-
+socks5://test123:test123@104.168.249.36:1080#%F0%9F%87%BA%F0%9F%87%B8US_678%7C611KB/s
+vless://96b44347-cac5-cfae-383b-1724ae9b5aec@89.47.55.8:443?encryption=none&type=xhttp&security=reality&sni=www.canon.com&fp=chrome&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&path=/&mode=auto#%F0%9F%87%A6%F0%9F%87%AAAE_80%7C898KB/s%7CV007-260618
+ss://YWVzLTI1Ni1nY206NDkzOGU5NzU3MjRkMGVkMQ==@194.87.196.13:50111#%F0%9F%87%B7%F0%9F%87%BARU_8%7C2.5MB/s%7CK001-260618
+socks5://83.147.216.208:1080#%F0%9F%87%AC%F0%9F%87%B7GR_7%7C1.8MB/s%7CK001-260618
+ss://YWVzLTI1Ni1nY206NzgyMzVlN2RjNTVlOWFkMQ==@132.243.255.3:50111#%F0%9F%87%A8%F0%9F%87%BECY_2%7C215KB/s%7CK001-260618
+ss://YWVzLTI1Ni1nY206S1NkZjNxZVRCNVRHbEZQbg==@103.136.150.237:8388#%F0%9F%87%AD%F0%9F%87%B0HK_63%7C335KB/s%7CK001-260618
