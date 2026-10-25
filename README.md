@@ -1,6 +1,6 @@
 Windows - https://github.com/throneproj/Throne 
 
-Android - https://github.com/MatsuriDayo/NekoBoxForAndroid
+Android - https://github.com/throneproj/ThroneForAndroid
 
 Android - https://github.com/dyhkwong/Exclave
 
